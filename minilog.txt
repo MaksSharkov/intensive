@@ -1,0 +1,28 @@
+* f6bd1d22bbe23f61faae7c745ae7bd0d59c13905 add reset2
+* 75772465e5a58f6411a0a411070b26e022cdb077 add reset
+* 1c0f19f6eb0a25cb9a7f7bd5d20de04bb8e09264 Revert "add revert"
+* f982c10186e1d28b5240ef7d4d5e386eb03fe9ba Revert "Revert "add log""
+* f32cf66f63265fcd87b4946886649b8766b3b60d Revert "add log"
+* cb522e94159fee0c8612ada6ae2c15b43245c14a Revert "Revert "add log""
+* 7bfbfdc279f1bd17ba350733ebe17222dadade8c Revert "add log"
+* c37a7c0851a5d05175fd1ab7d5790f3852544a7f add norevert
+* f0e4ebe865b239cc493b76ec7f3a2e52f955c7f9 add revert
+* d7098a7a0862e0e805ccfa1cf41f99359db1ed85 add log
+* 2c56509303c44c23bab49190fa9176280e35788e Изменение имени коммита
+* fb2e995485bde201edc171c07ca186369fc60195 add stash
+* 0db928a0edc14bf75819a682884d39d83a0d0752 add stash
+*   542451e879dd8df57c85873660277607c6c4dac4 Merge branch 'feature.two'
+|\  
+| * 159e34cce3db8b3df39b9536e25bf974e6ebf27e Add merge
+| * be48853dda2495813f49e9800b9b23dcd5f6d6df add branch2
+* |   a30a74a57f4237902f9f5fcd8253d9fe0a158926 Merge branch 'feature.one'
+|\ \  
+| * | 54e109499e3c73cdaae9016951e2ba53fe38cd0d Add merge
+| * | 50fbf7b28513ccc3cead639114d030fbc8554fd2 Add branch1
+| |/  
+* | 5faab653cc8c9c00c970cb9fab9391f4cc8cb31c Add merge
+|/  
+* 404c0aee9143b968642b2419b34047c4d567a11d Add release.notes
+* 67e4dd71be28fd42f13db56673e51bfc0ed6b055 Modify gitignore
+* 4b429a4c6d9092308a04c29e66efc41d6ea7748f Add gitignore
+* c8a13b7eba000df513eadfadac7118671ab470d9 Инициализирован репозиторий Шарков Максим Юрьевич
