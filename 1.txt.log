@@ -1,0 +1,88 @@
+commit aecdf9e80983d442bc11a5e5496bce1f2472bc0a
+Author: SharkovMaksimUrievich <makssharkov@yandex.ru>
+Date:   Mon Jun 27 16:17:17 2016 +0300
+
+    edit5
+
+diff --git a/1.txt b/1.txt
+index b593d6c..0124c51 100644
+--- a/1.txt
++++ b/1.txt
+@@ -1,4 +1,5 @@
+ Я делаю
+ очень странные вещи
+ суть которых
+-мне пока что
+\ No newline at end of file
++мне пока что
++не особо понятна
+\ No newline at end of file
+
+commit 095d2d17a4bbddb80a5aab13d178755ba4d67c8c
+Author: SharkovMaksimUrievich <makssharkov@yandex.ru>
+Date:   Mon Jun 27 16:16:19 2016 +0300
+
+    edit4
+
+diff --git a/1.txt b/1.txt
+index f3ba5e6..b593d6c 100644
+--- a/1.txt
++++ b/1.txt
+@@ -1,3 +1,4 @@
+ Я делаю
+ очень странные вещи
+-суть которых
+\ No newline at end of file
++суть которых
++мне пока что
+\ No newline at end of file
+
+commit 8f4b93818460c12aefc4daefe02dda03a44f9577
+Author: SharkovMaksimUrievich <makssharkov@yandex.ru>
+Date:   Mon Jun 27 16:15:27 2016 +0300
+
+    edit3
+
+diff --git a/1.txt b/1.txt
+index 251ed53..f3ba5e6 100644
+--- a/1.txt
++++ b/1.txt
+@@ -1,2 +1,3 @@
+ Я делаю
+-очень странные вещи
+\ No newline at end of file
++очень странные вещи
++суть которых
+\ No newline at end of file
+
+commit b26062c0be98117b199d47e4955e900894856a8b
+Author: SharkovMaksimUrievich <makssharkov@yandex.ru>
+Date:   Mon Jun 27 16:05:07 2016 +0300
+
+    edit2
+
+diff --git a/1.txt b/1.txt
+index 141ebcd..251ed53 100644
+--- a/1.txt
++++ b/1.txt
+@@ -1 +1,2 @@
+-Я делаю
+\ No newline at end of file
++Я делаю
++очень странные вещи
+\ No newline at end of file
+
+commit 96093d610401b96e9fe38d39f6fe291c8fbc1322
+Author: SharkovMaksimUrievich <makssharkov@yandex.ru>
+Date:   Mon Jun 27 16:04:17 2016 +0300
+
+    edit 1
+
+diff --git a/1.txt b/1.txt
+new file mode 100644
+index 0000000..141ebcd
+--- /dev/null
++++ b/1.txt
+@@ -0,0 +1 @@
++Я делаю
+\ No newline at end of file
