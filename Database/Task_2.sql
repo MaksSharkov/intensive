@@ -14,7 +14,7 @@ CREATE TABLE Tags
 	(	id int PRIMARY KEY IDENTITY (1, 1),
 		name nvarchar(max) NOT NULL )
 
-CREATE TABLE AnchorTags
+CREATE TABLE TaskTags
 	(	id int PRIMARY KEY IDENTITY (1, 1),
 		task_id int NOT NULL,
 		tag_id int NOT NULL )
