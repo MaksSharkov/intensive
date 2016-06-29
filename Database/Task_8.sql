@@ -1,0 +1,3 @@
+SELECT *
+FROM Tasks
+ORDER BY deadline DESC
