@@ -1,0 +1,2 @@
+ALTER TABLE Tasks WITH NOCHECK
+ADD CONSTRAINT deadline_check CHECK (deadline > SYSDATETIME())

@@ -7,7 +7,7 @@ CREATE TABLE Tasks
 		name nvarchar(max) NOT NULL,
 		description nvarchar(max) NULL,
 		completed bit NOT NULL,
-		deadline datetime2 NULL CHECK (deadline > SYSDATETIME()),
+		deadline datetime2 NULL,
 		project_id int NOT NULL )
 
 CREATE TABLE Tags
