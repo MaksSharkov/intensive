@@ -14,3 +14,11 @@ C:\Projects\intensive\WEB\TEST\TEST\obj\Debug\TEST.csprojResolveAssemblyReferenc
 C:\Projects\intensive\WEB\TEST\TEST\obj\Debug\TEST.exe
 C:\Projects\intensive\WEB\TEST\TEST\obj\Debug\TEST.pdb
 C:\Projects\intensive\WEB\TEST\TEST\bin\Debug\Owin.Types.dll
+C:\Projects\intensive\WEB\TEST\TEST\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\intensive\WEB\TEST\TEST\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\intensive\WEB\TEST\TEST\bin\Debug\System.Web.Http.dll
+C:\Projects\intensive\WEB\TEST\TEST\bin\Debug\System.Web.Http.Owin.dll
+C:\Projects\intensive\WEB\TEST\TEST\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\intensive\WEB\TEST\TEST\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\intensive\WEB\TEST\TEST\bin\Debug\System.Web.Http.xml
+C:\Projects\intensive\WEB\TEST\TEST\bin\Debug\System.Web.Http.Owin.xml
