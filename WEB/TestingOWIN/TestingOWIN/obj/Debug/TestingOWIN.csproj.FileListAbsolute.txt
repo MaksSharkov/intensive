@@ -1,0 +1,15 @@
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\bin\Debug\TestingOWIN.exe.config
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\bin\Debug\TestingOWIN.exe
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\bin\Debug\TestingOWIN.pdb
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\obj\Debug\TestingOWIN.csprojResolveAssemblyReference.cache
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\obj\Debug\TestingOWIN.exe
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\obj\Debug\TestingOWIN.pdb
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\bin\Debug\Microsoft.Owin.dll
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\bin\Debug\Owin.dll
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\bin\Debug\Microsoft.Owin.xml
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\intensive\WEB\TestingOWIN\TestingOWIN\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
